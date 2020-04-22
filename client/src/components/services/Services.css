@@ -1,0 +1,8 @@
+.accordion .card {
+  background-color: rgb(40, 40, 40);
+}
+
+.accordion .card-header {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
